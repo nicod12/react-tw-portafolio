@@ -21,7 +21,7 @@ const Projects = () => {
               autoplay
             ></lottie-player>
           </div>
-          <p className="text-xl semi-bold text-center">
+          <p className="text-xl semi-bold text-center mb-2">
             Good ideas are not adopted automatically. They must be driven into
             practice with corageous patience
           </p>
@@ -32,11 +32,11 @@ const Projects = () => {
             Because
           </h1>
         </div>
-        <div className="font-bold text-center bg-orange-600 mx-20 p-20 text-white rounded-full sm:mx-5">
-          <h1 className="text-8xl sm:text-3xl" data-aos="slide-left">
+        <div className="font-bold text-center bg-orange-600 mx-20 sm:p-10 p-20 text-white rounded-tl-full rounded-br-full sm:mx-5">
+          <h1 className="text-8xl sm:text-3xl" data-aos="flip-left">
             THE GAME IS...
           </h1>
-          <h1 className="text-8xl sm:text-3xl" data-aos="slide-right">
+          <h1 className="text-8xl sm:text-3xl" data-aos="flip-right">
             CONSISTANCY
           </h1>
         </div>
